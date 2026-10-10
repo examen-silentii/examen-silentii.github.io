@@ -3,8 +3,12 @@ description: "ExSil: an open journal of independent, reproducible examinations o
 theme: minima
 header_pages:
   - index.md
+  - articles.md
   - submit.md
+  - reviewers.md
+  - maintainers.md
   - policies.md
   - editors.md
+  - faq.md
 minima:
   skin: classic

@@ -4,6 +4,8 @@ title: Policies
 permalink: /policies/
 ---
 
+See also: [Publication ethics]({{ '/ethics/' | relative_url }}) · [Publishing and citation]({{ '/publishing/' | relative_url }}) · [Governance]({{ '/governance/' | relative_url }})
+
 ## Open review
 
 All review takes place in public on GitHub. Reviewers' comments and authors' replies remain part of the published record.
@@ -14,11 +16,11 @@ Authors, reviewers and editors must declare any relationship with the software, 
 
 ## Submissions from editors
 
-Any submission from a member of the editorial team is handled entirely by another editor, who selects the reviewers and makes the decision. The submitting editor has no access to the process beyond that of any other author.
+Any submission from a member of the editorial team is handled entirely by another editor, who selects the reviewers and makes the decision. The submitting editor has no access to the process beyond that of any other author. Until the editorial board includes at least one editor besides the Founding Editor, the journal does not accept submissions from its editors.
 
 ## Right of reply
 
-Maintainers of the examined software or data are invited to respond before publication. Responses that meet the journal's standards of accuracy are published alongside the article.
+Maintainers of the examined software or data are invited to respond before publication, and are given at least 30 days to do so. Responses that meet the journal's standards of accuracy are published alongside the article.
 
 ## Use of AI tools
 
