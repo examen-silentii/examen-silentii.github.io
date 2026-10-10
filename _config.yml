@@ -1,14 +1,29 @@
 title: "Examen Silentii"
+subtitle: "Journal of Software and Data Verification"
 description: "ExSil: an open journal of independent, reproducible examinations of scientific software and public research data."
-theme: minima
+url: "https://examen-silentii.github.io"
+logo: /assets/img/exsil-mark-512.png
+lang: en-GB
+
+# Fill in once the journal has its own address, e.g. "examen.silentii@gmail.com"
+contact_email: ""
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+
+permalink: /news/:year/:month/:day/:title/
+
 header_pages:
-  - index.md
   - articles.md
   - submit.md
   - reviewers.md
   - maintainers.md
   - policies.md
   - editors.md
+  - news.md
   - faq.md
-minima:
-  skin: classic
+
+exclude:
+  - README.md
+  - LICENSE.md

@@ -1,10 +1,8 @@
 ---
-layout: page
+layout: home
 title: About
 permalink: /
 ---
-
-**Examen Silentii (ExSil)** is an open journal of independent examinations of scientific software and public research data.
 
 ## What the journal publishes
 
@@ -16,16 +14,16 @@ The journal does not publish software announcements, novel methods without an in
 
 ## Why it exists
 
-Scientific results increasingly rest on software and shared datasets, yet most of these are checked only by the people who build them. A tool can return a wrong answer while reporting success, and a dataset can describe something other than what its users assume. ExSil exists to publish careful, reproducible evidence of such problems, together with the maintainers' response, so that the record is public, citable and fair to everyone involved.
+Almost every scientific result now passes through software or a shared dataset somewhere along the way, and most of that software is only ever checked by the people who wrote it. When something does go quietly wrong, the evidence usually ends up in an issue tracker or someone's notes, where it's hard to find and impossible to cite. ExSil gives that evidence a permanent, peer-reviewed home, and gives the people who maintain the software a chance to answer in the same place.
 
 ## How it works
 
-- Submissions and reviews take place openly on GitHub.
-- Reviewers rerun every test before an article is accepted.
-- Maintainers of the examined software or data are given the opportunity to respond, and their response is published alongside the article.
-- Every published article is archived on Zenodo with a DOI.
-- There are no fees to submit, publish or read.
+- You submit by opening an issue on GitHub, and the review happens there in the open.
+- Reviewers rerun your test themselves before anything is accepted.
+- We invite the maintainers to respond, and publish their reply next to the article.
+- Every article goes into a permanent archive on Zenodo with its own DOI.
+- It costs nothing to submit, publish or read.
 
-## Status
-
-ExSil is in preparation. Submissions will open once the editorial board and review process are in place. To express interest in submitting, reviewing or joining the editorial board, see the [Editors]({{ '/editors/' | relative_url }}) page.
+<div class="status">
+<p><strong>We're not taking submissions yet.</strong> The editorial board comes first. If you'd like to review, edit or send us something once we open, the <a href="{{ '/editors/' | relative_url }}">Editors</a> page explains how to get in touch.</p>
+</div>

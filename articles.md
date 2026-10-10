@@ -12,7 +12,7 @@ Articles are published continuously and listed here in order of publication. Eac
 Add each published article as a new entry at the top, in this form:
 
 ### Article title
-Authors · Volume N, Article N · Published YYYY-MM-DD
-Examined: name and version of the software or dataset
-[Article (DOI)](https://doi.org/10.5281/zenodo.0000000) · [Open review](https://github.com/examen-silentii/submissions/issues/N) · [Test materials](https://doi.org/10.5281/zenodo.0000000)
+Authors. Volume N, Article N. Published YYYY-MM-DD.
+Examined: name and version of the software or dataset.
+[Article](https://doi.org/10.5281/zenodo.0000000), [open review](https://github.com/examen-silentii/submissions/issues/N), [test materials](https://doi.org/10.5281/zenodo.0000000)
 -->

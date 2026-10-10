@@ -4,7 +4,7 @@ title: Policies
 permalink: /policies/
 ---
 
-See also: [Publication ethics]({{ '/ethics/' | relative_url }}) · [Publishing and citation]({{ '/publishing/' | relative_url }}) · [Governance]({{ '/governance/' | relative_url }})
+These policies are set out in more detail on the pages on [publication ethics]({{ '/ethics/' | relative_url }}), [publishing and citation]({{ '/publishing/' | relative_url }}) and [governance]({{ '/governance/' | relative_url }}).
 
 ## Open review
 
