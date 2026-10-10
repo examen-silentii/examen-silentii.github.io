@@ -1,0 +1,10 @@
+title: "Examen Silentii"
+description: "ExSil: an open journal of independent, reproducible examinations of scientific software and public research data."
+theme: minima
+header_pages:
+  - index.md
+  - submit.md
+  - policies.md
+  - editors.md
+minima:
+  skin: classic
